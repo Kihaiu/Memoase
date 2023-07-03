@@ -1,0 +1,1 @@
+start cmd /c " "D:\Games\Unreal\UE_5.1\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" "D:\Games\GameDesign\Memoase\Memoase.uproject" Tent -game -MoviePipelineConfig="/Game/Render_External" -noloadingscreen -windowed   -resx=250 -resy=500  -Log -StdOut -allowStdOutLogVerbosity -Unattended"
